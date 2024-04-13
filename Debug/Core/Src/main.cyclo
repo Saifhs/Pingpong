@@ -1,0 +1,13 @@
+main.c:100:6:microDelay	2
+main.c:106:9:DHT11_Start	5
+main.c:136:9:DHT11_Read	7
+main.c:170:5:main	5
+main.c:296:6:SystemClock_Config	4
+main.c:349:13:MX_RTC_Init	5
+main.c:432:13:MX_SPI1_Init	2
+main.c:470:13:MX_TIM2_Init	4
+main.c:515:13:MX_USART2_UART_Init	2
+main.c:550:13:MX_GPIO_Init	1
+main.c:617:6:uart_transmit_data	1
+main.c:624:6:uart_receive_data	1
+main.c:643:6:Error_Handler	1
